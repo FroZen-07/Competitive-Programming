@@ -31,7 +31,7 @@ To install gtimout in OS X :
 ```
 brew install coreutils
 ```
-Remember you may have to change the version in g++-{version} in sublime build file according to gcc version installed by brew. At the time of writting this post it is 10 hence is written as g++-9
+Remember you may have to change the version in g++-{version} in sublime build file according to gcc version installed by brew. At the time of writting this post it is 11.2.0 hence is written as g++-11
 
 ***This is how it looks***
 
